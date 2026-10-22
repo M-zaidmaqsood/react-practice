@@ -1,4 +1,4 @@
 
 export default function Button({ label }) {
-  return <button>{label}</button>
+  return <button className="primary-button">{label}</button>
 }
